@@ -2,12 +2,11 @@
   "name": "stepup",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://gitname.github.io/react-gh-pages",
+  "homepage": "http://nimeshm05.github.io/stepup",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
     "@testing-library/user-event": "^7.2.1",
-    "gh-pages": "^2.2.0",
     "jquery": "^3.4.1",
     "materialize-css": "^1.0.0-rc.2",
     "react": "^16.12.0",

@@ -1,5 +1,5 @@
 nav {
-    min-height: 80px;
+    min-height: 79px;
 }
 nav ul li a{
     color: rgb(49, 49, 49);
@@ -22,5 +22,7 @@ i.icon-black {
 img {
     height: auto;
     width: 100%;
-    margin-top: 16px;
+    margin-top: 25px;
+    margin-left: -60px;
+    min-width: 3vw;
 }

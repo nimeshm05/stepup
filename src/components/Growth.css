@@ -1,0 +1,21 @@
+#pc2 {
+    height: 450px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#card {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.container3 {
+    margin: 40px
+}
+
+#phase2 {
+    font-size: 22px;
+    margin-bottom: 30px;
+}

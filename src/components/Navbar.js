@@ -20,21 +20,22 @@ class Navbar extends Component {
                         <a href="/"className="brand-logo">
                             <img src={resize} alt="logs" className="responsive-img"/> 
                         </a>
-                        <a href="/" className="sidenav-trigger" data-target="mobile-links">
+                        <a href="/" className="sidenav-trigger right" data-target="mobile-links">
                             <i className="material-icons icon-black">menu</i>
                         </a>
                         <ul className="right hide-on-med-and-down">
                             <li><a href="/">Home</a></li>
                             <li><a href="/about">About Us</a></li>
                             <li><a href="/growth">Growth Accelerator</a></li>
-                            <li><a href="/services">Services</a></li>
+                            <li><a href="/contact">Contact Us</a></li>
+                            <li><a href="/gallery">Gallery</a></li>
                         </ul>
                     </div>
                     <ul className="sidenav" id="mobile-links">
                         <li><a href="/">Home</a></li>
-                            <li><a href="/about">About Us</a></li>
-                            <li><a href="/growth">Growth Accelerator</a></li>
-                            <li><a href="/services">Services</a></li>
+                        <li><a href="/about">About Us</a></li>
+                        <li><a href="/growth">Growth Accelerator</a></li>
+                        <li><a href="/contact">Contact</a></li>
                     </ul>
                 </nav>
             </div>
